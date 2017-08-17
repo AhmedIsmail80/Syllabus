@@ -72,7 +72,7 @@ CSCI 33500.
 
 ## Textbook
 
-[Software Engineering](https://books.google.com/books?id=tW4VngEACAAJ), Sommerville, I. ISBN 9780133943030. 2015, Pearson Education. 10th edition. There is a [paperback version](https://www.amazon.com/Software-Engineering-Sommerville-Ian/dp/1292096136) available with ISBN 1292096136. A copy is on reserve in the library. Please note that the **10th edition** is required.
+[Absolute C++](https://hunter.textbookx.com/institutional/index.php?action=browse#books/1466336/), Savitch, W. ISBN 9780133970784. 2015, Pearson Education. 6th edition.
 
 ## Grading
 
