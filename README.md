@@ -1,4 +1,4 @@
-# CSCI 40500: Software Engineering
+# CSCI 13500: Software Analysis & Design 1
 3 hrs, 3 credits. Department of Computer Science, Hunter College, City University of New York.
 
 ## Table of Contents
@@ -34,12 +34,12 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 Field | Value
 ----- | -----
 **Instructor:** | [Raffi Khatchadourian](http://www.cs.hunter.cuny.edu/~Raffi.Khatchadourian99) 
-**Office:** | 1000C Hunter North Building
+**Office:** | 1090-H Hunter North Building
 **Email:** | [raffi.khatchadourian@hunter.cuny.edu](mailto:raffi.khatchadourian@hunter.cuny.edu)
-**Phone:** | Please call department at: (212) 772-5213
-**Office hours:** | TTh 4:30-5:30 pm or by appointment
-**Semester:** | Spring 2017
-**Section:** | CSCI 40500-01
+**Phone:** | (212) 650-3988 
+**Office hours:** | TTh 4:15-5:15 pm or [by appointment](http://khatchad.setmore.com)
+**Semester:** | Fall 2017
+**Section:** | CSCI 13500-02
 
 ## Course Description
 
