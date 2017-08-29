@@ -45,10 +45,27 @@ You are responsible for all the material on the reading list whether or not cove
 
 ## Grading
 
-- Programming Projects (3-5). This may not seem like a lot, but beware that many test questions will be based directly on these programs.
-- Tests (3, equally weighted). Test 3 will be according to Hunter’s official final exam schedule for this class. This is currently scheduled for December 19, 5:20-7:20, but that is subject to change by the college.
+Your CSCI 13600 instructor also acts as your grader and is thus the first point of contact for any grading questions. 
+
+### Breakdown
+
+- (25%) Programming Projects (3-5). This may not seem like a lot, but beware that many test questions will be based directly on these programs.
+- (75%) Tests (3, equally weighted). Test 3 will be according to Hunter’s official final exam schedule for this class. This is currently scheduled for December 19, 5:20-7:20, but that is subject to change by the college.
+
+### Guidelines
 
 Final grades will be assigned based on the above and the following guidelines:
+
+Grade | Description
+----- | -----------
+A     | You understand the concepts well enough to successfully understand and solve a problem by implementing a C++ program on your own. 
+B     | Between the above and below.
+C     | You understand all basic C++ concepts, but have trouble implementing a complete correct program. 
+F     | You do not understand basic C++ concepts, or are unable to implement programs.
+
+It is difficult to understand software development concepts without sitting in front of a computer many hours a week actually writing and debugging programs.  
+
+### Scheme
 
 average | grade | average
 ------- | ----- | -------
