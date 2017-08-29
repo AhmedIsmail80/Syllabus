@@ -61,7 +61,7 @@ average | grade | average
 77.5 <= | C+    | < 80
 70 <=   | C     | < 77.5
 65 <=   | D     | < 70
-        | F     | < 65
+0 <=    | F     | < 65
 
 ## Late Policy
 
